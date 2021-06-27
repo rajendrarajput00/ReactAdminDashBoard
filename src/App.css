@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+.App {
+    background-color: #F1F5F8;
+    height: 100vh;
+}
+
+.mainGridStyle {
+    padding: 30px;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+a.active {
+    background-color: linear-gradient(90deg, rgba(210, 154, 108, 1) 6%, rgba(194, 107, 75, 1) 56%, rgba(194, 107, 75, 1) 100%);
+    background: rosybrown!important;
+    text-decoration: none;
+    color: cornflowerblue
+}
+
+.modal-dialog {
+    float: right;
+    width: 400px!important;
+}
+
+.MuiInputLabel-outlined {
+    transform: translate('14px', '13px') scale(1);
+}
