@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactAdminDashBoard/static/css/main.3f4e78f8.chunk.css",
+    "main.js": "/ReactAdminDashBoard/static/js/main.ee9eccfb.chunk.js",
+    "main.js.map": "/ReactAdminDashBoard/static/js/main.ee9eccfb.chunk.js.map",
+    "runtime-main.js": "/ReactAdminDashBoard/static/js/runtime-main.5038c1fe.js",
+    "runtime-main.js.map": "/ReactAdminDashBoard/static/js/runtime-main.5038c1fe.js.map",
+    "static/css/2.108bfca2.chunk.css": "/ReactAdminDashBoard/static/css/2.108bfca2.chunk.css",
+    "static/js/2.5bc102dc.chunk.js": "/ReactAdminDashBoard/static/js/2.5bc102dc.chunk.js",
+    "static/js/2.5bc102dc.chunk.js.map": "/ReactAdminDashBoard/static/js/2.5bc102dc.chunk.js.map",
+    "static/js/3.6f8572ab.chunk.js": "/ReactAdminDashBoard/static/js/3.6f8572ab.chunk.js",
+    "static/js/3.6f8572ab.chunk.js.map": "/ReactAdminDashBoard/static/js/3.6f8572ab.chunk.js.map",
+    "index.html": "/ReactAdminDashBoard/index.html",
+    "static/css/2.108bfca2.chunk.css.map": "/ReactAdminDashBoard/static/css/2.108bfca2.chunk.css.map",
+    "static/css/main.3f4e78f8.chunk.css.map": "/ReactAdminDashBoard/static/css/main.3f4e78f8.chunk.css.map",
+    "static/js/2.5bc102dc.chunk.js.LICENSE.txt": "/ReactAdminDashBoard/static/js/2.5bc102dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactAdminDashBoard/static/media/logo.6ce24c58.svg",
+    "static/media/logo.baf923db.png": "/ReactAdminDashBoard/static/media/logo.baf923db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5038c1fe.js",
+    "static/css/2.108bfca2.chunk.css",
+    "static/js/2.5bc102dc.chunk.js",
+    "static/css/main.3f4e78f8.chunk.css",
+    "static/js/main.ee9eccfb.chunk.js"
+  ]
+}
